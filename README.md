@@ -1,6 +1,8 @@
 # Incremental Search
 ###### This was a project for coding bootcamp [SPICED Academy](https://www.spiced-academy.com/).
 
+<img src="/images/01-incremental-search.png" alt="Incremental Search">
+
 ## 1. Description 📖
 
 Every time the user types a visible character, if the current value of the input field is at the beginning of the names of any countries in the list, those country names should be displayed (limit it to four countries displayed at a time).
